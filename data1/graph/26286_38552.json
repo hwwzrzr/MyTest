@@ -1,0 +1,8 @@
+{"link": [54093, 12288], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [38552, 0]}
+{"link": [54093, 12288], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [38552, 0]}
+{"link": [54093, 12288], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [38552, 0]}
+{"link": [54093, 10096], "path": ["/etc/passwd"], "label": [["PT0"], ["FT2"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [38552, 0]}
+{"link": [54093, 10096], "path": ["/etc/passwd"], "label": [["PT0"], ["FT2"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [38552, 0]}
+{"link": [54093, 10096], "path": ["/etc/passwd"], "label": [["PT0"], ["FT2"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [38552, 0]}
+{"link": [54093, 10096], "path": ["/etc/passwd"], "label": [["PT0"], ["FT2"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [38552, 0]}
+{"link": [54093, 54093], "path": "null", "label": [["PT0"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [38552, 38552]}

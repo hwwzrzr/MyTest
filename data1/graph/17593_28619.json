@@ -1,0 +1,9 @@
+{"link": [47321, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [28619, 0]}
+{"link": [47321, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [28619, 0]}
+{"link": [47321, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [28619, 0]}
+{"link": [47321, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [28619, 0]}
+{"link": [47321, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [28619, 0]}
+{"link": [47321, 10118], "path": ["/proc/filesystems"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [28619, 0]}
+{"link": [47321, 10118], "path": ["/proc/filesystems"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [28619, 0]}
+{"link": [47321, 10118], "path": ["/proc/filesystems"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [28619, 0]}
+{"link": [47321, 10118], "path": ["/proc/filesystems"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [28619, 0]}

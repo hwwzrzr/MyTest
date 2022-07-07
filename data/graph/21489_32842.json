@@ -1,0 +1,13 @@
+{"link": [50417, 50419], "path": "null", "label": [["PT97"], ["PT97"], 0], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [32842, 32843]}
+{"link": [50417, 5606], "path": "null", "label": [["PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [32842, 0]}
+{"link": [50417, 50420], "path": "null", "label": [["PT97"], ["PT97"], 0], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [32842, 32844]}
+{"link": [50417, 5606], "path": "null", "label": [["PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [32842, 0]}
+{"link": [50417, 5607], "path": "null", "label": [["PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [32842, 0]}
+{"link": [50417, 50421], "path": "null", "label": [["PT97"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [32842, 32845]}
+{"link": [50417, 5607], "path": "null", "label": [["PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [32842, 0]}
+{"link": [50417, 5608], "path": "null", "label": [["PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [32842, 0]}
+{"link": [50417, 50422], "path": "null", "label": [["PT97"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [32842, 32846]}
+{"link": [50417, 5608], "path": "null", "label": [["PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [32842, 0]}
+{"link": [50417, 5609], "path": "null", "label": [["PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [32842, 0]}
+{"link": [50417, 50423], "path": "null", "label": [["PT97"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [32842, 32847]}
+{"link": [50417, 5609], "path": "null", "label": [["PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [32842, 0]}

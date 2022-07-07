@@ -1,0 +1,1 @@
+{"link": [34668, 10101], "path": ["/bin/cat"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [8380, 0]}

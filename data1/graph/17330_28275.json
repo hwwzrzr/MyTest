@@ -1,0 +1,6 @@
+{"link": [47109, 10103], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/les.sh"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [28275, 0]}
+{"link": [47109, 4531], "path": "null", "label": [["PT0"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [28275, 0]}
+{"link": [47109, 4531], "path": "null", "label": [["PT0"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [28275, 0]}
+{"link": [47109, 47110], "path": "null", "label": [["PT0"], ["PT97"], 0], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [28275, 28276]}
+{"link": [47109, 4532], "path": "null", "label": [["PT0"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [28275, 0]}
+{"link": [47109, 47111], "path": "null", "label": [["PT0"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [28275, 28277]}

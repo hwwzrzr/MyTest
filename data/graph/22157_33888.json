@@ -1,0 +1,16 @@
+{"link": [50982, 10077], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 10078], "path": ["/bin/sh"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 50983], "path": "null", "label": [["PT0"], ["PT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [33888, 33889]}
+{"link": [50982, 50984], "path": "null", "label": [["PT0"], ["PT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [33888, 33890]}
+{"link": [50982, 10104], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/1"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 5773], "path": "null", "label": [["PT0"], ["IT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [33888, 0]}
+{"link": [50982, 10104], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/1"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [33888, 0]}
+{"link": [50982, 50985], "path": "null", "label": [["PT0"], ["PT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [33888, 33891]}

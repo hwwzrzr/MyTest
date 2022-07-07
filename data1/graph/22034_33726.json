@@ -1,0 +1,9 @@
+{"link": [50886, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [33726, 0]}
+{"link": [50886, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [33726, 0]}
+{"link": [50886, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [33726, 0]}
+{"link": [50886, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [33726, 0]}
+{"link": [50886, 14725], "path": ["/tmp/sh-thd-106070803482850192"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [33726, 0]}
+{"link": [50886, 14725], "path": ["/tmp/sh-thd-106070803482850192"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [33726, 0]}
+{"link": [50886, 10104], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/1"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_FILE"], "initlink": [33726, 0]}
+{"link": [50886, 10104], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/1"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [33726, 0]}
+{"link": [50886, 50886], "path": "null", "label": [["PT0"], ["PT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [33726, 33726]}

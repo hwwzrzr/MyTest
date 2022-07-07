@@ -1,0 +1,9 @@
+{"link": [51175, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [34097, 0]}
+{"link": [51175, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [34097, 0]}
+{"link": [51175, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [34097, 0]}
+{"link": [51175, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [34097, 0]}
+{"link": [51175, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [34097, 0]}
+{"link": [51175, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [34097, 0]}
+{"link": [51175, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [34097, 0]}
+{"link": [51175, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [34097, 0]}
+{"link": [51175, 51175], "path": "null", "label": [["PT0"], ["PT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [34097, 34097]}

@@ -1,0 +1,5 @@
+{"link": [51130, 10103], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/les.sh"], "label": [["PT97"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [34036, 0]}
+{"link": [51130, 5845], "path": "null", "label": [["PT97"], ["IT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [34036, 0]}
+{"link": [51130, 5845], "path": "null", "label": [["PT97"], ["IT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [34036, 0]}
+{"link": [51130, 51131], "path": "null", "label": [["PT97"], ["PT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [34036, 34037]}
+{"link": [51130, 51130], "path": "null", "label": [["PT97"], ["PT97"], 1], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [34036, 34036]}

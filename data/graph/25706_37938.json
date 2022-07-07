@@ -1,0 +1,5 @@
+{"link": [53630, 10118], "path": ["/proc/filesystems"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [37938, 0]}
+{"link": [53630, 10118], "path": ["/proc/filesystems"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [37938, 0]}
+{"link": [53630, 10118], "path": ["/proc/filesystems"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [37938, 0]}
+{"link": [53630, 10118], "path": ["/proc/filesystems"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [37938, 0]}
+{"link": [53630, 53630], "path": "null", "label": [["PT97"], ["PT97"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [37938, 37938]}

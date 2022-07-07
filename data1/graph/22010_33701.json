@@ -1,0 +1,10 @@
+{"link": [50867, 10103], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/les.sh"], "label": [["PT97"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [33701, 0]}
+{"link": [50867, 5728], "path": "null", "label": [["PT97"], ["IT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [33701, 0]}
+{"link": [50867, 5728], "path": "null", "label": [["PT97"], ["IT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [33701, 0]}
+{"link": [50867, 50868], "path": "null", "label": [["PT97"], ["PT97"], 1], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [33701, 33702]}
+{"link": [50867, 5729], "path": "null", "label": [["PT97"], ["IT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [33701, 0]}
+{"link": [50867, 50869], "path": "null", "label": [["PT97"], ["PT97"], 1], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [33701, 33703]}
+{"link": [50867, 5729], "path": "null", "label": [["PT97"], ["IT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [33701, 0]}
+{"link": [50867, 5730], "path": "null", "label": [["PT97"], ["IT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [33701, 0]}
+{"link": [50867, 50870], "path": "null", "label": [["PT97"], ["PT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [33701, 33704]}
+{"link": [50867, 5730], "path": "null", "label": [["PT97"], ["IT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [33701, 0]}

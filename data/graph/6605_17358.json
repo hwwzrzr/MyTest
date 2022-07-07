@@ -1,0 +1,2 @@
+{"link": [39306, 39306], "path": "null", "label": [["PT0"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CHANGE_PRINCIPAL", "SUBJECT_PROCESS"], "initlink": [17358, 17358]}
+{"link": [39306, 39306], "path": "null", "label": [["PT0"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [17358, 17358]}

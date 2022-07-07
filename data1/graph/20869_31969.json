@@ -1,0 +1,2 @@
+{"link": [49888, 49887], "path": "null", "label": [["PT6", "PT97"], ["PT6", "PT97"], 0], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [31969, 31970]}
+{"link": [49888, 49888], "path": "null", "label": [["PT6", "PT97"], ["PT6", "PT97"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [31969, 31969]}

@@ -1,0 +1,2 @@
+{"link": [34666, 10077], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [8381, 0]}
+{"link": [34666, 34666], "path": "null", "label": [["PT0"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [8381, 8381]}

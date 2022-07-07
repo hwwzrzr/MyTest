@@ -1,0 +1,11 @@
+{"link": [47919, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [29480, 0]}
+{"link": [47919, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [29480, 0]}
+{"link": [47919, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [29480, 0]}
+{"link": [47919, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [29480, 0]}
+{"link": [47919, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [29480, 0]}
+{"link": [47919, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [29480, 0]}
+{"link": [47919, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [29480, 0]}
+{"link": [47919, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [29480, 0]}
+{"link": [47919, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [29480, 0]}
+{"link": [47919, 10089], "path": ["/lib/x86_64-linux-gnu/libdl.so.2"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [29480, 0]}
+{"link": [47919, 10089], "path": ["/lib/x86_64-linux-gnu/libdl.so.2"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [29480, 0]}

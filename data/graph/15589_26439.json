@@ -1,0 +1,7 @@
+{"link": [45784, 4027], "path": "null", "label": [["PT6", "PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [26439, 0]}
+{"link": [45784, 4027], "path": "null", "label": [["PT6", "PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [26439, 0]}
+{"link": [45784, 4027], "path": "null", "label": [["PT6", "PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [26439, 0]}
+{"link": [45784, 4027], "path": "null", "label": [["PT6", "PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [26439, 0]}
+{"link": [45784, 4027], "path": "null", "label": [["PT6", "PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [26439, 0]}
+{"link": [45784, 4027], "path": "null", "label": [["PT6", "PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [26439, 0]}
+{"link": [45784, 4027], "path": "null", "label": [["PT6", "PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [26439, 0]}

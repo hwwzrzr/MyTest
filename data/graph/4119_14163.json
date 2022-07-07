@@ -1,0 +1,5 @@
+{"link": [37461, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [14163, 0]}
+{"link": [37461, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [14163, 0]}
+{"link": [37461, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [14163, 0]}
+{"link": [37461, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [14163, 0]}
+{"link": [37461, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [14163, 0]}

@@ -1,0 +1,2 @@
+{"link": [52284, 10077], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [36066, 0]}
+{"link": [52284, 10102], "path": ["/bin/chmod"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [36066, 0]}

@@ -1,0 +1,5 @@
+{"link": [50885, 14725], "path": ["/tmp/sh-thd-106070803482850192"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [33725, 0]}
+{"link": [50885, 14725], "path": ["/tmp/sh-thd-106070803482850192"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [33725, 0]}
+{"link": [50885, 10104], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/1"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_FILE"], "initlink": [33725, 0]}
+{"link": [50885, 10104], "path": ["/var/www/html/web3/WordPress-4.6.18/wp-content/uploads/slideshow-gallery/1"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [33725, 0]}
+{"link": [50885, 50885], "path": "null", "label": [["PT0"], ["PT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [33725, 33725]}

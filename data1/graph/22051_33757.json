@@ -1,0 +1,6 @@
+{"link": [50901, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [33757, 0]}
+{"link": [50901, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [33757, 0]}
+{"link": [50901, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [33757, 0]}
+{"link": [50901, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [33757, 0]}
+{"link": [50901, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [33757, 0]}
+{"link": [50901, 50901], "path": "null", "label": [["PT0"], ["PT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [33757, 33757]}

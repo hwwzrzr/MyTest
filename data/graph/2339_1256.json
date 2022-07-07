@@ -1,0 +1,2 @@
+{"link": [36237, 11482], "path": ["/var/lib/tomcat8/webapps/webshell/index.jsp"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [1256, 0]}
+{"link": [36237, 11482], "path": ["/var/lib/tomcat8/webapps/webshell/index.jsp"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [1256, 0]}

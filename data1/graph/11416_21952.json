@@ -1,0 +1,4 @@
+{"link": [42568, 13348], "path": ["/tmp/sh-thd-17307424556820161374"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [21952, 0]}
+{"link": [42568, 13348], "path": ["/tmp/sh-thd-17307424556820161374"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [21952, 0]}
+{"link": [42568, 2901], "path": "null", "label": [["PT0"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [21952, 0]}
+{"link": [42568, 42568], "path": "null", "label": [["PT0"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [21952, 21952]}

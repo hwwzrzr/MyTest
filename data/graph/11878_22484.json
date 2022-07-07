@@ -1,0 +1,1 @@
+{"link": [42941, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [22484, 0]}

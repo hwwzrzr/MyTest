@@ -1,0 +1,5 @@
+{"link": [49133, 5189], "path": "null", "label": [["PT3"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [31027, 0]}
+{"link": [49133, 5189], "path": "null", "label": [["PT3"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [31027, 0]}
+{"link": [49133, 10242], "path": ["/dev/null"], "label": [["PT3"], ["FT1"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_CHAR"], "initlink": [31027, 0]}
+{"link": [49133, 10242], "path": ["/dev/null"], "label": [["PT3"], ["FT1"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_CHAR"], "initlink": [31027, 0]}
+{"link": [49133, 49133], "path": "null", "label": [["PT3"], ["PT3"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXECUTE", "SUBJECT_PROCESS"], "initlink": [31027, 31027]}

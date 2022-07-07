@@ -1,0 +1,3 @@
+{"link": [48614, 10241], "path": ["/boot/config-4.4.0-142-generic"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [30306, 0]}
+{"link": [48614, 10241], "path": ["/boot/config-4.4.0-142-generic"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [30306, 0]}
+{"link": [48614, 48614], "path": "null", "label": [["PT0"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [30306, 30306]}

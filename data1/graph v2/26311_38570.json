@@ -1,0 +1,11 @@
+{"link": [54111, 6998], "path": "null", "label": [["PT0"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [38570, 0]}
+{"link": [54111, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [38570, 0]}
+{"link": [54111, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [38570, 0]}
+{"link": [54111, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [38570, 0]}
+{"link": [54111, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [38570, 0]}
+{"link": [54111, 12288], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [38570, 0]}
+{"link": [54111, 12288], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [38570, 0]}
+{"link": [54111, 12288], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [38570, 0]}
+{"link": [54111, 11311], "path": ["/home/spade/SPADE/bin"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_DIR"], "initlink": [38570, 0]}
+{"link": [54111, 11311], "path": ["/home/spade/SPADE/bin"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_DIR"], "initlink": [38570, 0]}
+{"link": [54111, 54111], "path": "null", "label": [["PT0"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [38570, 38570]}

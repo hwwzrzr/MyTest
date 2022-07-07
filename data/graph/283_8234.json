@@ -1,0 +1,7 @@
+{"link": [34520, 10077], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [8234, 0]}
+{"link": [34520, 10101], "path": ["/bin/cat"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [8234, 0]}
+{"link": [34520, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [8234, 0]}
+{"link": [34520, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [8234, 0]}
+{"link": [34520, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [8234, 0]}
+{"link": [34520, 10108], "path": ["/tmp/sh-thd-887644009"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [8234, 0]}
+{"link": [34520, 34520], "path": "null", "label": [["PT0"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [8234, 8234]}

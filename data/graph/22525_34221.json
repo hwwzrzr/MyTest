@@ -1,0 +1,16 @@
+{"link": [51243, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10088], "path": ["/lib/x86_64-linux-gnu/libpthread.so.0"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10118], "path": ["/proc/filesystems"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10119], "path": ["/etc/dpkg/dpkg.cfg.d"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_DIR"], "initlink": [34221, 0]}
+{"link": [51243, 10119], "path": ["/etc/dpkg/dpkg.cfg.d"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_DIR"], "initlink": [34221, 0]}
+{"link": [51243, 10120], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10120], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10120], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 10120], "path": ["/etc/dpkg/dpkg.cfg.d/pkg-config-hook-config"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [34221, 0]}
+{"link": [51243, 51243], "path": "null", "label": [["PT0"], ["PT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_EXECUTE", "SUBJECT_PROCESS"], "initlink": [34221, 34221]}

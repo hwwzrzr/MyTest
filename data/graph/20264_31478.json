@@ -1,0 +1,1 @@
+{"link": [49466, 10115], "path": ["/bin/grep"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [31478, 0]}

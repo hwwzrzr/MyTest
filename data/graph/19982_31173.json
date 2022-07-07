@@ -1,0 +1,8 @@
+{"link": [49232, 10115], "path": ["/bin/grep"], "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [31173, 0]}
+{"link": [49232, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [31173, 0]}
+{"link": [49232, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [31173, 0]}
+{"link": [49232, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [31173, 0]}
+{"link": [49232, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [31173, 0]}
+{"link": [49232, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [31173, 0]}
+{"link": [49232, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [31173, 0]}
+{"link": [49232, 10082], "path": ["/lib/x86_64-linux-gnu/libpcre.so.3"], "label": [["PT6", "PT96", "PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [31173, 0]}

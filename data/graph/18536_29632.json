@@ -1,0 +1,16 @@
+{"link": [48060, 10077], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 10101], "path": ["/bin/cat"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 14435], "path": ["/tmp/sh-thd-887631098"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 4868], "path": "null", "label": [["PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [29632, 0]}
+{"link": [48060, 14435], "path": ["/tmp/sh-thd-887631098"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 14435], "path": ["/tmp/sh-thd-887631098"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [29632, 0]}
+{"link": [48060, 4868], "path": "null", "label": [["PT97"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [29632, 0]}
+{"link": [48060, 48060], "path": "null", "label": [["PT97"], ["PT97"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [29632, 29632]}

@@ -1,0 +1,6 @@
+{"link": [50889, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [33738, 0]}
+{"link": [50889, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [33738, 0]}
+{"link": [50889, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [33738, 0]}
+{"link": [50889, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [33738, 0]}
+{"link": [50889, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT0"], ["FT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [33738, 0]}
+{"link": [50889, 50889], "path": "null", "label": [["PT0"], ["PT0"], 1], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [33738, 33738]}

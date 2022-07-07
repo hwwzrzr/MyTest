@@ -1,0 +1,4 @@
+{"link": [40214, 12957], "path": ["/tmp/sh-thd-14570655562180379524"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [18651, 0]}
+{"link": [40214, 12957], "path": ["/tmp/sh-thd-14570655562180379524"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [18651, 0]}
+{"link": [40214, 2020], "path": "null", "label": [["PT0"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [18651, 0]}
+{"link": [40214, 40214], "path": "null", "label": [["PT0"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [18651, 18651]}

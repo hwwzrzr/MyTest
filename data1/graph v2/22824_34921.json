@@ -1,0 +1,2 @@
+{"link": [51501, 5936], "path": "null", "label": [["PT1"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [34921, 0]}
+{"link": [51501, 51501], "path": "null", "label": [["PT1"], ["PT1"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXECUTE", "SUBJECT_PROCESS"], "initlink": [34921, 34921]}

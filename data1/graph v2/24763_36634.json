@@ -1,0 +1,6 @@
+{"link": [52841, 14895], "path": ["/tmp/sh-thd-887673876"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CREATE_OBJECT", "FILE_OBJECT_FILE"], "initlink": [36634, 0]}
+{"link": [52841, 14895], "path": ["/tmp/sh-thd-887673876"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_WRITE", "FILE_OBJECT_FILE"], "initlink": [36634, 0]}
+{"link": [52841, 14895], "path": ["/tmp/sh-thd-887673876"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [36634, 0]}
+{"link": [52841, 14895], "path": ["/tmp/sh-thd-887673876"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [36634, 0]}
+{"link": [52841, 14895], "path": ["/tmp/sh-thd-887673876"], "label": [["PT0"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_UNLINK", "FILE_OBJECT_FILE"], "initlink": [36634, 0]}
+{"link": [52841, 52841], "path": "null", "label": [["PT0"], ["PT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXECUTE", "SUBJECT_PROCESS"], "initlink": [36634, 36634]}

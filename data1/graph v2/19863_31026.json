@@ -1,0 +1,10 @@
+{"link": [49132, 5188], "path": "null", "label": [["PT3"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [31026, 0]}
+{"link": [49132, 5188], "path": "null", "label": [["PT3"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [31026, 0]}
+{"link": [49132, 49133], "path": "null", "label": [["PT3"], ["PT3"], 0], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [31026, 31027]}
+{"link": [49132, 5189], "path": "null", "label": [["PT3"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [31026, 0]}
+{"link": [49132, 49134], "path": "null", "label": [["PT3"], ["PT97", "PT3"], 0], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [31026, 31028]}
+{"link": [49132, 5189], "path": "null", "label": [["PT3"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [31026, 0]}
+{"link": [49132, 5190], "path": "null", "label": [["PT3"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [31026, 0]}
+{"link": [49132, 49135], "path": "null", "label": [["PT3"], ["PT3"], 0], "type": ["SUBJECT_PROCESS", "EVENT_FORK", "SUBJECT_PROCESS"], "initlink": [31026, 31029]}
+{"link": [49132, 5190], "path": "null", "label": [["PT3"], ["IT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "IPC_OBJECT_PIPE_UNNAMED"], "initlink": [31026, 0]}
+{"link": [49132, 49132], "path": "null", "label": [["PT3"], ["PT3"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [31026, 31026]}

@@ -1,0 +1,14 @@
+{"link": [54465, 10077], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 10111], "path": ["/bin/uname"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_READ", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 10080], "path": ["/lib/x86_64-linux-gnu/libc.so.6"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 12288], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 12288], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 12288], "path": ["/usr/lib/locale/locale-archive"], "label": [["PT97"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [38926, 0]}
+{"link": [54465, 54465], "path": "null", "label": [["PT97"], ["PT97"], 0], "type": ["SUBJECT_PROCESS", "EVENT_EXIT", "SUBJECT_PROCESS"], "initlink": [38926, 38926]}

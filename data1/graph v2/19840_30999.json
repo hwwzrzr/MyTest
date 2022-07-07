@@ -1,0 +1,5 @@
+{"link": [49112, 10077], "path": ["/lib64/ld-linux-x86-64.so.2"], "label": [["PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [30999, 0]}
+{"link": [49112, 10115], "path": ["/bin/grep"], "label": [["PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_LOADLIBRARY", "FILE_OBJECT_FILE"], "initlink": [30999, 0]}
+{"link": [49112, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_OPEN", "FILE_OBJECT_FILE"], "initlink": [30999, 0]}
+{"link": [49112, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_MMAP", "FILE_OBJECT_FILE"], "initlink": [30999, 0]}
+{"link": [49112, 10079], "path": ["/etc/ld.so.cache"], "label": [["PT98", "PT97", "PT1", "PT3"], ["FT0"], 0], "type": ["SUBJECT_PROCESS", "EVENT_CLOSE", "FILE_OBJECT_FILE"], "initlink": [30999, 0]}
